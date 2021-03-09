@@ -8,8 +8,8 @@ import (
 	"log"
 	"time"
 
-	"bitbucket.org/intxlog/profiler/db"
-	"bitbucket.org/intxlog/profiler/profiler"
+	"github.com/adrenallen/profiler/db"
+	"github.com/adrenallen/profiler/profiler"
 )
 
 func main() {

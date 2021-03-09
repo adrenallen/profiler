@@ -1,4 +1,4 @@
-module bitbucket.org/intxlog/profiler
+module github.com/adrenallen/profiler
 
 go 1.16
 
